@@ -8,14 +8,17 @@ FCA, DORA, EU AI Act, and SMCR obligations.
 
 ## What this repository contains
 
-This repository is the technical companion to the 
-[The Reclaimed Workforce](https://www.linkedin.com/in/kal-perwaz/) 
-four-part series and Champion's Guide published on Medium.
+This repository is the technical companion to the The Reclaimed Workforce 
+four-part series published on LinkedIn, with the Champion's Guide 
+published on Medium.
 
-It provides the reference architecture, governance templates, and 
-regulatory mapping for deploying Digital Workers with cryptographic 
-identity, policy enforcement, and a tamper-evident audit trail from 
-day one.
+**The Reclaimed Workforce — LinkedIn series:**
+- [Part 1: Hiring the Invisible Colleague](https://www.linkedin.com/pulse/reclaimed-workforce-part-1-hiring-invisible-colleague-kal-perwaz-1zqae/)
+- [Part 2: The Identity Framework](https://www.linkedin.com/pulse/copy-reclaimed-workforce-cxos-guide-digital-workplace-kal-perwaz-buoie/)
+- [Part 3: Governance and the Digital Job Description](https://www.linkedin.com/pulse/reclaimed-workforce-cxos-guide-digital-workplace-framework-kal-perwaz-evxhe/)
+- [Part 4: The Investment Roadmap](https://www.linkedin.com/pulse/reclaimed-workforce-cxos-guide-digital-workplace-framework-kal-perwaz-qm2te/)
+
+**Champion's Guide** — publishing on Medium. Link to follow.
 
 ---
 
@@ -36,8 +39,10 @@ This framework gives every Digital Worker:
 ---
 
 ## Repository structure
+```
 governed-digital-worker/
 ├── README.md                  # This file
+├── LICENSE                    # CC BY 4.0
 ├── diagrams/                  # Architecture diagrams (SVG)
 │   ├── governed-digital-worker-architecture.svg
 │   └── six-plane-control-overview.svg
@@ -45,8 +50,8 @@ governed-digital-worker/
 │   ├── digital-job-description-template.md
 │   └── five-gates-checklist.md
 └── regulatory-mapping/        # Regulatory alignment tables
-└── eu-ai-act-mapping.md
----
+    └── eu-ai-act-mapping.md
+```
 
 ## The Five Gates
 
@@ -131,5 +136,5 @@ Full regulatory mapping table in `/regulatory-mapping/`.
 ## Licence
 
 This architecture and documentation is published under the 
-[MIT Licence](LICENSE). You are free to use, adapt, and build on it. 
-Attribution appreciated.
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). 
+You are free to use, adapt, and build on it. Attribution required.
