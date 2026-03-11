@@ -1,4 +1,4 @@
-# Governed Digital Worker — Reference Architecture
+# The Reclaimed Workforce: Digital Worker Reference Architecture
 
 A governance framework for deploying AI Digital Workers in regulated 
 financial services environments. Built for organisations operating under 
