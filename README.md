@@ -55,8 +55,8 @@ reclaimed-workforce/
 ├── README.md                  # This file
 ├── LICENSE                    # CC BY 4.0
 ├── diagrams/                  # Architecture diagrams (SVG)
-│   ├── governed-digital-worker-architecture.svg
-│   └── six-plane-control-overview.svg
+│   ├── vocabulary-bridge.svg
+│   └── from-wish-to-mandate.svg
 ├── governance/                # Governance templates
 │   ├── digital-job-description-template.md
 │   └── five-gates-checklist.md
