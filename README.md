@@ -8,9 +8,20 @@ FCA, DORA, EU AI Act, and SMCR obligations.
 
 ## What this repository contains
 
-This repository is the technical companion to the The Reclaimed Workforce 
+This repository is the technical companion to The Reclaimed Workforce 
 four-part series published on LinkedIn, with the Champion's Guide 
-published on Medium.
+publishing on Medium.
+
+It provides the reference architecture, governance templates, and 
+regulatory mapping for deploying Digital Workers with cryptographic 
+identity, policy enforcement, and a tamper-evident audit trail.
+
+The series addresses a straightforward problem. Skilled people in 
+financial services spend the majority of their working week on 
+high-volume, process-intensive work that consumes their expertise 
+without rewarding it. Digital Workers can handle that work. But an 
+ungoverned AI agent operating inside a regulated firm is not a 
+productivity tool. This framework makes the difference.
 
 **The Reclaimed Workforce — LinkedIn series:**
 - [Part 1: Hiring the Invisible Colleague](https://www.linkedin.com/pulse/reclaimed-workforce-part-1-hiring-invisible-colleague-kal-perwaz-1zqae/)
@@ -53,6 +64,8 @@ reclaimed-workforce/
     └── eu-ai-act-mapping.md
 ```
 
+---
+
 ## The Five Gates
 
 No Digital Worker moves from Shadow Mode to Full Agency until all 
@@ -73,24 +86,24 @@ A worker that clears four gates is not almost ready. It is not ready.
 
 ## Key components
 
-**Digital Passport (SPIFFE/SVID)**
+**Digital Passport (SPIFFE/SVID)**  
 A time-limited cryptographic identity for each worker. Not a shared 
 service account. Standard TTL: 15 minutes. High-assurance: 5 minutes.
 
-**Policy Bus / Intelligent Intercept (OPA)**
+**Policy Bus / Policy Decision Point (OPA)**  
 Every action checked against the approved Digital Job Description 
 before execution. Deny-by-default posture.
 
-**Attribution Ledger**
+**Attribution Ledger**  
 HMAC-chained append-only audit log. Cryptographic chain of custody. 
 Satisfies EU AI Act Article 12 logging requirements.
 
-**Digital Job Description**
-The governance document that defines what the worker may do. Signed 
-Rego policy bundle plus a change-management-approved governance 
-document. Satisfies EU AI Act Article 14 human oversight requirements.
+**Digital Job Description**  
+The governance document that defines what the worker may do, expressed 
+as a signed OPA policy bundle. Satisfies EU AI Act Article 14 human 
+oversight requirements.
 
-**Kill Switch**
+**Kill Switch**  
 SPIRE registration entry deletion. Revokes the SVID within the TTL 
 window. Must be tested before go-live. A Kill Switch that has never 
 been tested is not a control.
@@ -100,13 +113,14 @@ been tested is not a control.
 ## Regulatory alignment
 
 This architecture is designed for compliance with:
+
 - **EU AI Act** — Articles 12 (logging), 14 (human oversight), 
   17 (quality management)
 - **DORA** — ICT risk management and incident response
 - **FCA Consumer Duty** — Audit trail and accountability requirements
 - **SMCR** — Named individual accountability for every worker
 - **NIST AI 600-1** — Shadow Mode satisfies pre-deployment safety 
-  evaluation for high-risk agentic systems
+  evaluation requirements for high-risk agentic systems
 
 Full regulatory mapping table in `/regulatory-mapping/`.
 
@@ -128,13 +142,12 @@ Full regulatory mapping table in `/regulatory-mapping/`.
 
 **Kal Perwaz** — AI Security Architect and GRC Specialist  
 30 years in infrastructure and governance. Financial services.  
-[LinkedIn](https://www.linkedin.com/in/kal-perwaz/) · 
-[GitHub](https://github.com/KaosKal)
+[LinkedIn](https://www.linkedin.com/in/kal-perwaz/) · [GitHub](https://github.com/KaosKal)
 
 ---
 
 ## Licence
 
 This architecture and documentation is published under the 
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). 
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).  
 You are free to use, adapt, and build on it. Attribution required.
