@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="766" viewBox="0 0 1600 766">
+<defs>
+<linearGradient id="gleft" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop offset="0%" stop-color="#EEF1F5"/><stop offset="100%" stop-color="#DDE2EA"/></linearGradient>
+<linearGradient id="gright" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop offset="0%" stop-color="#EEEAF8"/><stop offset="100%" stop-color="#E2DCF2"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="1600" height="766" fill="#F7F6F2"/>
+<text x="800" y="29" fill="#8A909A" style="font-family:Liberation Sans,Arial,sans-serif;font-size:12px;font-weight:bold;text-anchor:middle;fill:#8A909A;letter-spacing:3px;">THE RECLAIMED WORKFORCE  ·  COMPANION PIECE</text>
+<rect x="0" y="36" width="1600" height="64" fill="#1B3A6B"/>
+<text x="800" y="76" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:28px;font-weight:bold;text-anchor:middle;fill:#FFFFFF;">From Wish to Mandate</text>
+<text x="800" y="123" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:normal;text-anchor:middle;fill:#5A6070;font-style:italic;">A governance record specifies all four elements. The first draft usually specifies none.</text>
+<line x1="130" y1="140" x2="1470" y2="140" stroke="#C8C4BC" stroke-width="1"/>
+<rect x="130" y="142" width="620" height="574" fill="url(#gleft)" rx="10" stroke="#6B7A8D" stroke-width="1.5"/>
+<rect x="130" y="142" width="620" height="68" fill="#3D4D5E" rx="10"/>
+<rect x="130" y="200" width="620" height="10" fill="#3D4D5E"/>
+<text x="440" y="172" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:18px;font-weight:bold;text-anchor:middle;fill:#FFFFFF;letter-spacing:2px;">THE WISH</text>
+<text x="440" y="190" fill="#B0BCC8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:14px;font-weight:normal;text-anchor:middle;fill:#B0BCC8;font-style:italic;">How it usually starts</text>
+<text x="144" y="238" fill="#506070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#506070;letter-spacing:1.5px;">ACTION</text>
+<text x="144" y="257" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">"Flag anything unusual."</text>
+<text x="144" y="276" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">No definition the system can apply</text>
+<text x="144" y="295" fill="#3A4858" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#3A4858;font-style:italic;">Every clause becomes a human decision</text>
+<rect x="644" y="244" width="100" height="22" fill="#C4504A" rx="11"/><text x="694" y="258" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">UNDEFINED</text>
+<line x1="144" y1="319" x2="736" y2="319" stroke="#C8D0D8" stroke-width="0.7"/>
+<text x="144" y="348" fill="#506070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#506070;letter-spacing:1.5px;">DATA SOURCE</text>
+<text x="144" y="367" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">"Supplier contracts"</text>
+<text x="144" y="386" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">No folder, library, or path specified</text>
+<text x="144" y="405" fill="#3A4858" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#3A4858;font-style:italic;">May access wrong documents or miss scope entirely</text>
+<rect x="674" y="354" width="68" height="22" fill="#C97A10" rx="12"/><text x="708" y="368" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">VAGUE</text>
+<line x1="144" y1="429" x2="736" y2="429" stroke="#C8D0D8" stroke-width="0.7"/>
+<text x="144" y="458" fill="#506070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#506070;letter-spacing:1.5px;">THRESHOLD</text>
+<text x="144" y="477" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Not specified</text>
+<text x="144" y="496" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">No measurable condition for action or escalation</text>
+<text x="144" y="515" fill="#3A4858" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#3A4858;font-style:italic;">No boundary: the worker decides what counts</text>
+<rect x="659" y="464" width="84" height="22" fill="#C4504A" rx="11"/><text x="701" y="478" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">MISSING</text>
+<line x1="144" y1="539" x2="736" y2="539" stroke="#C8D0D8" stroke-width="0.7"/>
+<text x="144" y="568" fill="#506070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#506070;letter-spacing:1.5px;">ESCALATION PATH</text>
+<text x="144" y="587" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Not specified</text>
+<text x="144" y="606" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">No named human, no channel, no timeout</text>
+<text x="144" y="625" fill="#3A4858" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#3A4858;font-style:italic;">Flagged items go nowhere. No accountability</text>
+<rect x="659" y="574" width="84" height="22" fill="#C4504A" rx="11"/><text x="701" y="588" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">MISSING</text>
+<rect x="130" y="648" width="620" height="68" fill="#3D4D5E" rx="10"/>
+<rect x="130" y="648" width="620" height="10" fill="#3D4D5E"/>
+<text x="440" y="682" fill="#9AAABB" style="font-family:Liberation Sans,Arial,sans-serif;font-size:14px;font-weight:normal;text-anchor:middle;fill:#9AAABB;font-style:italic;">Ungoverned from the moment it is commissioned</text>
+<text x="440" y="700" fill="#6A7A88" style="font-family:Liberation Sans,Arial,sans-serif;font-size:11px;font-weight:normal;text-anchor:middle;fill:#6A7A88;letter-spacing:0.5px;">Action  ·  Data Source  ·  Threshold  ·  Escalation Path</text>
+<rect x="130" y="142" width="620" height="574" fill="none" rx="10" stroke="#6B7A8D" stroke-width="1.5"/>
+<rect x="850" y="142" width="620" height="574" fill="url(#gright)" rx="10" stroke="#6E60A8" stroke-width="1.5"/>
+<rect x="850" y="142" width="620" height="68" fill="#3D3480" rx="10"/>
+<rect x="850" y="200" width="620" height="10" fill="#3D3480"/>
+<text x="1160" y="172" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:18px;font-weight:bold;text-anchor:middle;fill:#FFFFFF;letter-spacing:2px;">THE MANDATE</text>
+<text x="1160" y="190" fill="#C0B8DC" style="font-family:Liberation Sans,Arial,sans-serif;font-size:14px;font-weight:normal;text-anchor:middle;fill:#C0B8DC;font-style:italic;">What commissioning-ready looks like</text>
+<text x="864" y="238" fill="#6E60A8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#6E60A8;letter-spacing:1.5px;">ACTION</text>
+<text x="864" y="257" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Flag clauses below confidence threshold</text>
+<text x="864" y="276" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">or where clause type is not in the permitted list</text>
+<text x="864" y="295" fill="#4C4488" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#4C4488;font-style:italic;">Classification model version locked at commissioning</text>
+<rect x="1379" y="244" width="84" height="22" fill="#3A7A50" rx="11"/><text x="1421" y="258" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">DEFINED</text>
+<line x1="864" y1="319" x2="1456" y2="319" stroke="#D0CDE8" stroke-width="0.7"/>
+<text x="864" y="348" fill="#6E60A8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#6E60A8;letter-spacing:1.5px;">DATA SOURCE</text>
+<text x="864" y="367" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Legal Affairs SharePoint library</text>
+<text x="864" y="386" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">Legal-Affairs/Contracts/Supplier-Active only</text>
+<text x="864" y="405" fill="#4C4488" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#4C4488;font-style:italic;">Read-only. Folder path locked. No write permissions</text>
+<rect x="1386" y="354" width="76" height="22" fill="#3A7A50" rx="11"/><text x="1424" y="368" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">SCOPED</text>
+<line x1="864" y1="429" x2="1456" y2="429" stroke="#D0CDE8" stroke-width="0.7"/>
+<text x="864" y="458" fill="#6E60A8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#6E60A8;letter-spacing:1.5px;">THRESHOLD</text>
+<text x="864" y="477" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Confidence score below 0.75</text>
+<text x="864" y="496" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">or any clause type not in Appendix A list</text>
+<text x="864" y="515" fill="#4C4488" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#4C4488;font-style:italic;">Agreed with Legal before deployment. Auditable</text>
+<rect x="1371" y="464" width="92" height="22" fill="#3A7A50" rx="11"/><text x="1417" y="478" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">MEASURED</text>
+<line x1="864" y1="539" x2="1456" y2="539" stroke="#D0CDE8" stroke-width="0.7"/>
+<text x="864" y="568" fill="#6E60A8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:start;fill:#6E60A8;letter-spacing:1.5px;">ESCALATION PATH</text>
+<text x="864" y="587" fill="#1A1A2E" style="font-family:Liberation Sans,Arial,sans-serif;font-size:16px;font-weight:bold;text-anchor:start;fill:#1A1A2E;">Named accountability owner</text>
+<text x="864" y="606" fill="#5A6070" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:normal;text-anchor:start;fill:#5A6070;font-style:italic;">within two business hours of processing</text>
+<text x="864" y="625" fill="#4C4488" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:start;fill:#4C4488;font-style:italic;">Marcus Webb, Senior Solicitor. Logged to Ledger</text>
+<rect x="1394" y="574" width="68" height="22" fill="#3A7A50" rx="11"/><text x="1428" y="588" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:bold;text-anchor:middle;letter-spacing:0.5px;fill:#FFFFFF;">NAMED</text>
+<rect x="850" y="648" width="620" height="68" fill="#3D3480" rx="10"/>
+<rect x="850" y="648" width="620" height="10" fill="#3D3480"/>
+<text x="1160" y="682" fill="#B0A8D8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:14px;font-weight:normal;text-anchor:middle;fill:#B0A8D8;font-style:italic;">Every element is measurable, accountable, and auditable</text>
+<text x="1160" y="700" fill="#7870A8" style="font-family:Liberation Sans,Arial,sans-serif;font-size:11px;font-weight:normal;text-anchor:middle;fill:#7870A8;letter-spacing:0.5px;">Action  ·  Data Source  ·  Threshold  ·  Escalation Path</text>
+<rect x="850" y="142" width="620" height="574" fill="none" rx="10" stroke="#6E60A8" stroke-width="1.5"/>
+<circle cx="800" cy="429" r="26" fill="#1B3A6B"/>
+<text x="800" y="435" fill="#FFFFFF" style="font-family:Liberation Sans,Arial,sans-serif;font-size:13px;font-weight:bold;text-anchor:middle;fill:#FFFFFF;">VS</text>
+<line x1="130" y1="734" x2="1470" y2="734" stroke="#C8C4BC" stroke-width="0.75"/>
+<text x="800" y="752" fill="#8A909A" style="font-family:Liberation Sans,Arial,sans-serif;font-size:10px;font-weight:normal;text-anchor:middle;fill:#8A909A;">The Reclaimed Workforce  ·  Companion Piece  ·  github.com/KaosKal/governed-digital-worker</text>
+</svg>

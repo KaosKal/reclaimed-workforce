@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="690" viewBox="0 0 1280 690">
+
+  <!-- Background -->
+  <rect width="1280" height="680" fill="#F7F6F2"/>
+
+  <!-- Teal header band -->
+  <rect x="0" y="0" width="1280" height="100" fill="#2E8B8B"/>
+
+  <!-- Title -->
+  <text x="40" y="48" font-family="Georgia,'Times New Roman',serif" font-size="32" font-weight="bold" fill="#FFFFFF">Visual A: The Vocabulary Bridge</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="78" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#D0ECE8">Carry this card into every meeting. Use the series language with the board. Use plain English with Legal and HR. Let IT use the right column.</text>
+
+  <!-- Column headers -->
+  <!-- Series Language header -->
+  <rect x="30" y="112" width="356" height="48" fill="#A06828" rx="3"/>
+  <text x="208" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Series Language</text>
+  <text x="208" y="150" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#F4E6C8" text-anchor="middle">(Boardroom)</text>
+
+  <!-- Plain English header -->
+  <rect x="396" y="112" width="434" height="48" fill="#1B3A6B" rx="3"/>
+  <text x="613" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Plain English</text>
+  <text x="613" y="150" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#B8C8E4" text-anchor="middle">(Legal / HR)</text>
+
+  <!-- Technical Implementation header -->
+  <rect x="840" y="112" width="410" height="48" fill="#2E8B8B" rx="3"/>
+  <text x="1045" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Technical Implementation</text>
+  <text x="1045" y="150" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#D0ECE8" text-anchor="middle">(IT Architecture)</text>
+
+  <!-- Row 1: Digital Passport -->
+  <rect x="30" y="170" width="356" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="208" y="217" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Digital Passport</text>
+
+  <rect x="396" y="170" width="434" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="613" y="217" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">A staff pass that expires and cannot be shared</text>
+
+  <rect x="840" y="170" width="410" height="80" fill="#F7F6F2" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="1045" y="207" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">SPIFFE/SVID — time-limited cryptographic</text>
+  <text x="1045" y="225" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">identity per worker</text>
+
+  <!-- Row 2: Policy Bus / Intelligent Intercept -->
+  <rect x="30" y="260" width="356" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="208" y="295" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Policy Bus /</text>
+  <text x="208" y="317" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Intelligent Intercept</text>
+
+  <rect x="396" y="260" width="434" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="613" y="307" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">The rule engine that checks each action before it runs</text>
+
+  <rect x="840" y="260" width="410" height="80" fill="#F7F6F2" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="1045" y="295" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">OPA Policy Decision Point — enforces the</text>
+  <text x="1045" y="313" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">Digital Job Description in real time</text>
+
+  <!-- Row 3: Attribution Ledger -->
+  <rect x="30" y="350" width="356" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="208" y="397" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Attribution Ledger</text>
+
+  <rect x="396" y="350" width="434" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="613" y="385" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">Your regulatory evidence pack: an unalterable</text>
+  <text x="613" y="405" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">record of every action</text>
+
+  <rect x="840" y="350" width="410" height="80" fill="#F7F6F2" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="1045" y="385" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">HMAC-chained append-only audit log —</text>
+  <text x="1045" y="403" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">cryptographic chain of custody</text>
+
+  <!-- Row 4: Digital Job Description -->
+  <rect x="30" y="440" width="356" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="208" y="487" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Digital Job Description</text>
+
+  <rect x="396" y="440" width="434" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="613" y="487" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">Governs what the worker is permitted to do and how</text>
+
+  <rect x="840" y="440" width="410" height="80" fill="#F7F6F2" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="1045" y="473" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">Signed OPA policy bundle + governance document</text>
+  <text x="1045" y="491" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">approved through change management</text>
+
+  <!-- Row 5: Kill Switch -->
+  <rect x="30" y="530" width="356" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="208" y="577" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" fill="#2E8B8B" text-anchor="middle">Kill Switch</text>
+
+  <rect x="396" y="530" width="434" height="80" fill="#FFFFFF" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="613" y="570" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">Stops a misbehaving worker.</text>
+  <text x="613" y="590" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#0D1B2A" text-anchor="middle">Maximum 15-minute revocation</text>
+
+  <rect x="840" y="530" width="410" height="80" fill="#F7F6F2" stroke="#D0DCE8" stroke-width="1"/>
+  <text x="1045" y="570" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">SPIRE registration entry deletion —</text>
+  <text x="1045" y="588" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#2E8B8B" text-anchor="middle">revokes the SVID within its TTL</text>
+
+  <!-- Key governance decision footer band -->
+  <rect x="30" y="622" width="1220" height="44" fill="#FDF6E4" stroke="#A06828" stroke-width="1" rx="3"/>
+  <text x="50" y="638" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="bold" fill="#0D1B2A">Key governance decision:</text>
+  <text x="50" y="655" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0D1B2A">The TTL (time-to-live) on the Digital Passport is not a technical setting. It is your primary blast radius control. Set it in the Digital Job Description. Standard: 15 min. High-assurance: 5 min.</text>
+
+  <!-- Footer -->
+  <rect x="0" y="678" width="1280" height="12" fill="#2E8B8B"/>
+  <text x="640" y="687" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">The Reclaimed Workforce · Champion's Guide</text>
+
+</svg>
