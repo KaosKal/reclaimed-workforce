@@ -40,7 +40,7 @@ This framework gives every Digital Worker:
 
 ## Repository structure
 ```
-governed-digital-worker/
+reclaimed-workforce/
 ├── README.md                  # This file
 ├── LICENSE                    # CC BY 4.0
 ├── diagrams/                  # Architecture diagrams (SVG)
