@@ -130,10 +130,10 @@ Full regulatory mapping table in `/regulatory-mapping/`.
 
 | Component | Status |
 |-----------|--------|
-| Reference architecture diagrams | In progress |
-| Digital Job Description template | In progress |
-| Five Gates checklist | In progress |
-| EU AI Act mapping table | In progress |
+| Reference architecture diagrams | Available |
+| Digital Job Description template | Available |
+| Five Gates checklist | Available |
+| EU AI Act mapping table | Available |
 | Implementation examples | Planned |
 
 ---
